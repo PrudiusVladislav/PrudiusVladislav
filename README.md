@@ -1,16 +1,24 @@
-### Hi there 👋
+# 👋 Hello, I'm Vladyslav Prudius
 
-<!--
-**PrudiusVladislav/PrudiusVladislav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a passionate .NET C# developer who loves turning ideas into code. Currently exploring architecture designs like DDD, Clean architecture and TDD.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/vladyslav-prudius)
+
+## 🔧 Skills
+
+- .NET
+- C#
+- SQL
+- DOCKER
+- DDD & Clean architecture
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrudiusVladislav&show_icons=true&theme=dark)
+
+## 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+
