@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Vladyslav Prudius
 
-A passionate Software Developer and student at Kyiv School of Economics. Currently interested in backend development, especially in learning how to design scalable and maintainable solutions, following some of the best architectural practices like DDD, Clean architecture and TDD.
+A passionate Software Developer and student at Kyiv School of Economics. Currently interested in backend development, especially in learning how to design scalable and maintainable solutions, following some of the best architectural practices like DDD, and Clean architecture.
 
 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/vladyslav-prudius)
 
@@ -9,10 +9,11 @@ A passionate Software Developer and student at Kyiv School of Economics. Current
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
-![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 <p align="center"> 
