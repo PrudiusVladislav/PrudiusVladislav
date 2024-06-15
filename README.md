@@ -20,5 +20,5 @@ A passionate Software Developer and student at Kyiv School of Economics. Current
   <img src="https://github-readme-stats.vercel.app/api?username=PrudiusVladislav&show_icons=true&theme=dark"/>
 </p>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrudiusVladislav&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrudiusVladislav&layout=compact&theme=dark&hide=jupyter%20notebook"/>
 </p>
