@@ -16,9 +16,9 @@ A passionate Software Developer and student at Kyiv School of Economics. Current
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=PrudiusVladislav&show_icons=true&theme=dark"/>
+<p align="center">
+  <img src="https://github-readme-stats-prudius.vercel.app/api?username=PrudiusVladislav&show_icons=true&theme=dark"/>
 </p>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrudiusVladislav&layout=compact&theme=dark&hide=jupyter%20notebook"/>
+  <img src="https://github-readme-stats-prudius.vercel.app/api/top-langs/?username=PrudiusVladislav&layout=compact&theme=dark&hide=jupyter%20notebook"/>
 </p>
