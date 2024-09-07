@@ -1,13 +1,13 @@
 ## 👋 Hello, I'm Vladyslav Prudius
 
-A passionate Software Developer and student at Kyiv School of Economics. Currently interested in backend development, especially in learning how to design scalable and maintainable solutions, following some of the best architectural practices like DDD, and Clean architecture.
+A passionate Software Developer and second year student at Kyiv School of Economics. Currently interested in Full-Stack development using SvelteKit, Typescript & other technologies related to the stack. 
 
 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/vladyslav-prudius)
 
 ### Skills
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
