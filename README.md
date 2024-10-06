@@ -6,6 +6,7 @@ A passionate Software Developer and second year student at Kyiv School of Econom
 
 ### Skills
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Svelte-2e2e2e?style=for-the-badge&logo=svelte&logoColor=fe3e00)
 ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
