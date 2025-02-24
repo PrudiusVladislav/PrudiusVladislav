@@ -25,5 +25,6 @@ A passionate Software Developer and second year student at Kyiv School of Econom
   <img src="https://github-readme-stats-prudius.vercel.app/api?username=PrudiusVladislav&show_icons=true&theme=dark"/>
 </p>
 <p align="center"> 
+  <img src="https://api.githubtrends.io/user/svg/PrudiusVladislav/langs?time_range=one_year&theme=dark"/>
   <img src="https://github-readme-stats-prudius.vercel.app/api/top-langs/?username=PrudiusVladislav&layout=compact&theme=dark&hide=jupyter%20notebook"/>
 </p>
